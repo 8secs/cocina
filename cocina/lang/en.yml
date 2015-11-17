@@ -1,0 +1,57 @@
+en:
+  ContactPage:
+    APELLIDO: Surname
+    COMMENT: 'Comment*'
+    DESCRIPTION: 'Generic content page'
+    EMAIL: Email
+    MAILTO: 'Send email to'
+    NOMBRE: Name
+    PLURALNAME: 'Contact Pages'
+    SEND: Send
+    SINGULARNAME: 'Contact Page'
+    SUBJECT: Subject
+    SUBMITTEXT: 'Message to send'
+    SUBTITULO: Subtitle
+    TITULO: Title
+    TLFNO: Cell phone
+    OTHER: Other
+    PRESPUESTO: 'I want to receive a personalize budget'
+    WEBPROBLEM: 'I´ve got a problem with the web page'
+  DetallePage:
+    CONTENT: Contenido
+    DESCRIPTION: 'Generic content page'
+    ELEMENTS: Elementos
+    IMAGE: Imagen
+    PLURALNAME: 'Detalle Pages'
+    SINGULARNAME: 'Detalle Page'
+    SUBTITLE: Subtitulo
+    TYPE: Tipo
+  HomePage:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: 'Home Pages'
+    SINGULARNAME: 'Home Page'
+    TEMPLATES: Plantillas
+  Item:
+    CONTENIDO: Contenido
+    FONDO: Fondo
+    IMAGEN: Imagen
+    NAVEGACIONINICIO: 'Navegación Inicio'
+    PLURALNAME: Items
+    SECCION: Seccion
+    SELECCIONAPAG: 'Elige una pag. a la que ir.'
+    SINGULARNAME: Item
+    SUBTITULO: Subtitulo
+    TITULO: Titulo
+  Page:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: Pages
+    SINGULARNAME: Page
+  Section:
+    PLURALNAME: Sections
+    SINGULARNAME: Section
+  SectionDetail:
+    PLURALNAME: 'Section Details'
+    SINGULARNAME: 'Section Detail'
+  SiteTree:
+    PLURALNAME: Pages
+    SINGULARNAME: Page

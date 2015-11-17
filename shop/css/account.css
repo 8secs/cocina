@@ -1,0 +1,28 @@
+
+/* create a box floated to the right */
+.accountcontent{
+	float:left;
+	width:70%;
+}
+
+.accountnav{
+	float:right;
+	width:25%;
+}
+
+table.orderhistory{
+	width:100%;
+}
+
+/*
+ * Member form styling, and tweaks to the login form as well
+ */
+#ShopAccountForm_EditAccountForm,
+#ChangePasswordForm_ChangePasswordForm {
+	width: 45%;
+	float:left;
+}
+
+#ChangePasswordForm_ChangePasswordForm{
+	margin-left:5%;
+}

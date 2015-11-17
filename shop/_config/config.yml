@@ -1,0 +1,50 @@
+---
+Name: shopconfig
+After: framework/routes#coreroutes
+---
+Email:
+  admin_email: arangeltorres@gmail.com
+
+ShopConfig:
+  base_currency: 'EUR'
+
+Member:
+  login_joins_cart: true
+
+Product_Image:
+  thumbnail_width: 140
+  thumbnail_height: 100
+  content_image_width: 200
+  large_image_width: 600
+
+  ProductCategory:
+    include_child_groups: true
+    must_have_price: true
+    sort_options:
+      'Title' : 'Alphabetical'
+      'Price' : 'Lowest Price'
+
+OrderProcessor:
+  bcc_receipt_to_admin: true
+
+Order:
+  modifiers:
+    - 'FlatTaxModifier'
+    - 'SimpleShippingModifier'
+  cancel_before_payment: false
+  cancel_before_processing: false
+  cancel_before_sending: false
+  cancel_before_sending: false
+  cancel_after_sending: false
+
+OrderManipulation:
+  allow_cancelling: true
+  allow_paying: true
+
+Injector:
+  CheckoutComponentConfig:
+    class: SinglePageCheckoutComponentConfig
+
+LeftAndMain:
+  extra_requirements_css:
+    - shop/css/shopcms.css

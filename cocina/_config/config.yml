@@ -1,0 +1,19 @@
+---
+Name: cocina
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+# YAML configuration for SilverStripe
+# See http://doc.silverstripe.org/framework/en/topics/configuration
+# Caution: Indentation through two spaces, not tabs
+SSViewer:
+  theme: 'simple'
+
+FacebookControllerExtension:
+  app_id: '1406811749613981'
+  api_secret: '1738a5d9c3d25667f75a11adb5bf71ea'
+
+# API access
+Page:
+  api_access: true

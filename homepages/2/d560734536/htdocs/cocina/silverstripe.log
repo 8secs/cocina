@@ -1,0 +1,115 @@
+[02-Feb-2015 14:27:43] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "213.172.35.168" (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 14:27:43] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SELECT DISTINCT "SiteConfig"."ClassName", "SiteConfig"."Created", "SiteConfig"."LastEdited", "SiteConfig"."Title", "SiteConfig"."Tagline", "SiteConfig"."Theme", "SiteConfig"."CanViewType", "SiteConfig"."CanEditType", "SiteConfig"."CanCreateTopLevelType", "SiteConfig"."AllowedCountries", "SiteConfig"."Locale", "SiteConfig"."TermsPageID", "SiteConfig"."CustomerGroupID", "SiteConfig"."DefaultProductImageID", "SiteConfig"."ID", CASE WHEN "SiteConfig"."ClassName" IS NOT NULL THEN "SiteConfig"."ClassName" ELSE 'SiteConfig' END AS "RecordClassName"
+FROM "SiteConfig"
+WHERE ("SiteConfig"."Locale" = 'en_GB')
+LIMIT 1 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 14:30:43] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "213.172.35.168" (http://cocina.visitaelaljarafe.com/)
+[02-Feb-2015 14:30:43] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SHOW TABLES LIKE 'SiteConfig' 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/)
+[02-Feb-2015 14:33:46] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "213.172.35.168" (http://cocina.visitaelaljarafe.com/server-error/)
+[02-Feb-2015 14:33:46] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SELECT DISTINCT "SiteTree_Live"."ClassName", "SiteTree_Live"."Created", "SiteTree_Live"."LastEdited", "SiteTree_Live"."URLSegment", "SiteTree_Live"."Title", "SiteTree_Live"."MenuTitle", "SiteTree_Live"."Content", "SiteTree_Live"."MetaDescription", "SiteTree_Live"."ExtraMeta", "SiteTree_Live"."ShowInMenus", "SiteTree_Live"."ShowInSearch", "SiteTree_Live"."Sort", "SiteTree_Live"."HasBrokenFile", "SiteTree_Live"."HasBrokenLink", "SiteTree_Live"."ReportClass", "SiteTree_Live"."CanViewType", "SiteTree_Live"."CanEditType", "SiteTree_Live"."Locale", "SiteTree_Live"."Version", "SiteTree_Live"."ParentID", "SiteTree_Live"."ID", CASE WHEN "SiteTree_Live"."ClassName" IS NOT NULL THEN "SiteTree_Live"."ClassName" ELSE 'SiteTree' END AS "RecordClassName"
+FROM "SiteTree_Live"
+WHERE ("SiteTree_Live"."ParentID" = '5') AND (("SiteTree_Live"."ID" != '5')) AND ("SiteTree_Live"."ShowInMenus" = '1') AND ("SiteTree_Live"."Locale" = 'en_GB')
+ORDER BY "SiteTree_Live"."Sort" ASC 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/server-error/)
+[02-Feb-2015 15:15:18] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "213.172.35.168" (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 15:15:18] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SELECT DISTINCT "SiteConfig"."ClassName", "SiteConfig"."Created", "SiteConfig"."LastEdited", "SiteConfig"."Title", "SiteConfig"."Tagline", "SiteConfig"."Theme", "SiteConfig"."CanViewType", "SiteConfig"."CanEditType", "SiteConfig"."CanCreateTopLevelType", "SiteConfig"."AllowedCountries", "SiteConfig"."Locale", "SiteConfig"."TermsPageID", "SiteConfig"."CustomerGroupID", "SiteConfig"."DefaultProductImageID", "SiteConfig"."ID", CASE WHEN "SiteConfig"."ClassName" IS NOT NULL THEN "SiteConfig"."ClassName" ELSE 'SiteConfig' END AS "RecordClassName"
+FROM "SiteConfig"
+WHERE ("SiteConfig"."Locale" = 'en_GB')
+LIMIT 1 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 15:18:19] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "213.172.35.168" (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 15:18:19] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SELECT DISTINCT "SiteConfig"."ClassName", "SiteConfig"."Created", "SiteConfig"."LastEdited", "SiteConfig"."Title", "SiteConfig"."Tagline", "SiteConfig"."Theme", "SiteConfig"."CanViewType", "SiteConfig"."CanEditType", "SiteConfig"."CanCreateTopLevelType", "SiteConfig"."AllowedCountries", "SiteConfig"."Locale", "SiteConfig"."TermsPageID", "SiteConfig"."CustomerGroupID", "SiteConfig"."DefaultProductImageID", "SiteConfig"."ID", CASE WHEN "SiteConfig"."ClassName" IS NOT NULL THEN "SiteConfig"."ClassName" ELSE 'SiteConfig' END AS "RecordClassName"
+FROM "SiteConfig"
+WHERE ("SiteConfig"."Locale" = 'en_US')
+LIMIT 1 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 15:20:29] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "213.172.35.168" (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 15:20:29] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SELECT DISTINCT "SiteConfig"."ClassName", "SiteConfig"."Created", "SiteConfig"."LastEdited", "SiteConfig"."Title", "SiteConfig"."Tagline", "SiteConfig"."Theme", "SiteConfig"."CanViewType", "SiteConfig"."CanEditType", "SiteConfig"."CanCreateTopLevelType", "SiteConfig"."AllowedCountries", "SiteConfig"."Locale", "SiteConfig"."TermsPageID", "SiteConfig"."CustomerGroupID", "SiteConfig"."DefaultProductImageID", "SiteConfig"."ID", CASE WHEN "SiteConfig"."ClassName" IS NOT NULL THEN "SiteConfig"."ClassName" ELSE 'SiteConfig' END AS "RecordClassName"
+FROM "SiteConfig"
+WHERE ("SiteConfig"."Locale" = 'en_US')
+LIMIT 1 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 15:22:11] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "213.172.35.168" (http://cocina.visitaelaljarafe.com/)
+[02-Feb-2015 15:22:11] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SHOW TABLES LIKE 'SiteConfig' 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/)
+[02-Feb-2015 15:28:39] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "213.172.35.168" (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 15:28:39] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SELECT DISTINCT "SiteConfig"."ClassName", "SiteConfig"."Created", "SiteConfig"."LastEdited", "SiteConfig"."Title", "SiteConfig"."Tagline", "SiteConfig"."Theme", "SiteConfig"."CanViewType", "SiteConfig"."CanEditType", "SiteConfig"."CanCreateTopLevelType", "SiteConfig"."AllowedCountries", "SiteConfig"."TermsPageID", "SiteConfig"."CustomerGroupID", "SiteConfig"."DefaultProductImageID", "SiteConfig"."ID", CASE WHEN "SiteConfig"."ClassName" IS NOT NULL THEN "SiteConfig"."ClassName" ELSE 'SiteConfig' END AS "RecordClassName"
+FROM "SiteConfig"
+LIMIT 1 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 15:50:18] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "213.172.35.168" (http://cocina.visitaelaljarafe.com/?flush=1&flushtoken=61f016f9e0e17ba23c78e204518ccd3f)
+[02-Feb-2015 15:50:18] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SHOW TABLES LIKE 'SiteConfig' 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/?flush=1&flushtoken=61f016f9e0e17ba23c78e204518ccd3f)
+[02-Feb-2015 16:00:44] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "213.172.35.168" (http://cocina.visitaelaljarafe.com/)
+[02-Feb-2015 16:00:44] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SHOW TABLES LIKE 'SiteConfig' 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/)
+[02-Feb-2015 18:15:34] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "87.220.180.60" (http://cocina.visitaelaljarafe.com/)
+[02-Feb-2015 18:15:34] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SHOW TABLES LIKE 'SiteConfig' 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/)
+[02-Feb-2015 18:22:26] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "87.220.180.60" (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 18:22:26] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SELECT DISTINCT "SiteConfig"."ClassName", "SiteConfig"."Created", "SiteConfig"."LastEdited", "SiteConfig"."Title", "SiteConfig"."Tagline", "SiteConfig"."Theme", "SiteConfig"."CanViewType", "SiteConfig"."CanEditType", "SiteConfig"."CanCreateTopLevelType", "SiteConfig"."AllowedCountries", "SiteConfig"."Locale", "SiteConfig"."TermsPageID", "SiteConfig"."CustomerGroupID", "SiteConfig"."DefaultProductImageID", "SiteConfig"."ID", CASE WHEN "SiteConfig"."ClassName" IS NOT NULL THEN "SiteConfig"."ClassName" ELSE 'SiteConfig' END AS "RecordClassName"
+FROM "SiteConfig"
+WHERE ("SiteConfig"."Locale" = 'en_GB')
+LIMIT 1 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 18:42:01] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "87.220.180.60" (http://cocina.visitaelaljarafe.com/server-error/)
+[02-Feb-2015 18:42:01] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SELECT DISTINCT "SiteTree_Live"."ClassName", "SiteTree_Live"."Created", "SiteTree_Live"."LastEdited", "SiteTree_Live"."URLSegment", "SiteTree_Live"."Title", "SiteTree_Live"."MenuTitle", "SiteTree_Live"."Content", "SiteTree_Live"."MetaDescription", "SiteTree_Live"."ExtraMeta", "SiteTree_Live"."ShowInMenus", "SiteTree_Live"."ShowInSearch", "SiteTree_Live"."Sort", "SiteTree_Live"."HasBrokenFile", "SiteTree_Live"."HasBrokenLink", "SiteTree_Live"."ReportClass", "SiteTree_Live"."CanViewType", "SiteTree_Live"."CanEditType", "SiteTree_Live"."Locale", "SiteTree_Live"."Version", "SiteTree_Live"."ParentID", "SiteTree_Live"."ID", CASE WHEN "SiteTree_Live"."ClassName" IS NOT NULL THEN "SiteTree_Live"."ClassName" ELSE 'SiteTree' END AS "RecordClassName"
+FROM "SiteTree_Live"
+WHERE ("SiteTree_Live"."ParentID" = '5') AND (("SiteTree_Live"."ID" != '5')) AND ("SiteTree_Live"."ShowInMenus" = '1') AND ("SiteTree_Live"."Locale" = 'en_GB')
+ORDER BY "SiteTree_Live"."Sort" ASC 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/server-error/)
+[02-Feb-2015 18:44:31] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "87.220.180.60" (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 18:44:31] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SELECT DISTINCT "SiteConfig"."ClassName", "SiteConfig"."Created", "SiteConfig"."LastEdited", "SiteConfig"."Title", "SiteConfig"."Tagline", "SiteConfig"."Theme", "SiteConfig"."CanViewType", "SiteConfig"."CanEditType", "SiteConfig"."CanCreateTopLevelType", "SiteConfig"."AllowedCountries", "SiteConfig"."Locale", "SiteConfig"."TermsPageID", "SiteConfig"."CustomerGroupID", "SiteConfig"."DefaultProductImageID", "SiteConfig"."ID", CASE WHEN "SiteConfig"."ClassName" IS NOT NULL THEN "SiteConfig"."ClassName" ELSE 'SiteConfig' END AS "RecordClassName"
+FROM "SiteConfig"
+WHERE ("SiteConfig"."Locale" = 'en_GB')
+LIMIT 1 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 18:46:06] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "87.220.180.60" (http://cocina.visitaelaljarafe.com/?flush=1&flushtoken=4be82a684bbd23991e6a9d2e29b64dd6)
+[02-Feb-2015 18:46:06] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SHOW TABLES LIKE 'SiteConfig' 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/?flush=1&flushtoken=4be82a684bbd23991e6a9d2e29b64dd6)
+[02-Feb-2015 18:46:06] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SHOW TABLES; 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/?flush=1&flushtoken=8fc7bcc78b3a9509fcb22cf43ea27833)
+[02-Feb-2015 19:12:56] Error at vendor/willdurand/geocoder/src/Geocoder/Provider/ChainProvider.php line 63: No provider could provide the address "87.220.180.60" (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 19:12:56] Warning at framework/model/MySQLDatabase.php line 142: mysqli::query(): MySQL server has gone away (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 19:12:56] Warning at framework/model/MySQLDatabase.php line 142: mysqli::query(): Error reading result set's header (http://cocina.visitaelaljarafe.com/page-not-found/)
+[02-Feb-2015 19:12:56] Error at framework/model/MySQLDatabase.php line 598: Couldn't run query: 
+SELECT DISTINCT "SiteConfig"."ClassName", "SiteConfig"."Created", "SiteConfig"."LastEdited", "SiteConfig"."Title", "SiteConfig"."Tagline", "SiteConfig"."Theme", "SiteConfig"."CanViewType", "SiteConfig"."CanEditType", "SiteConfig"."CanCreateTopLevelType", "SiteConfig"."AllowedCountries", "SiteConfig"."Locale", "SiteConfig"."TermsPageID", "SiteConfig"."CustomerGroupID", "SiteConfig"."DefaultProductImageID", "SiteConfig"."ID", CASE WHEN "SiteConfig"."ClassName" IS NOT NULL THEN "SiteConfig"."ClassName" ELSE 'SiteConfig' END AS "RecordClassName"
+FROM "SiteConfig"
+WHERE ("SiteConfig"."Locale" = 'en_GB')
+LIMIT 1 
+
+MySQL server has gone away (http://cocina.visitaelaljarafe.com/page-not-found/)

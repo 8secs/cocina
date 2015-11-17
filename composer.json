@@ -1,0 +1,24 @@
+{
+	"name": "silverstripe/installer",
+	"description": "The SilverStripe Framework Installer",
+	"require": {
+		"php": ">=5.3.2",
+		"silverstripe/cms": "3.1.8",
+		"silverstripe/framework": "3.1.8",
+		"silverstripe-themes/simple": "*",
+		"burnbright/silverstripe-listsorter": "2.0.1",
+		"burnbright/silverstripe-sqlquerylist": "dev-master",
+        "burnbright/silverstripe-omnipay": "~1.0",
+		"burnbright/silverstripe-shop": "~1.0",
+		"wilr/silverstripe-facebookconnect": "dev-master",
+        "facebook/php-sdk-v4" : "4.0.*",
+        "colymba/gridfield-bulk-editing-tools": "*",
+        "burnbright/silverstripe-shop-discount": "dev-master",
+        "burnbright/silverstripe-shop-shipping": "master",
+		"silverstripe/userforms": "*"
+	},
+	"config": {
+		"process-timeout": 600	
+	},
+	"minimum-stability": "dev"
+}

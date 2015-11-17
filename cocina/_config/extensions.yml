@@ -1,0 +1,12 @@
+---
+Name: cocina
+After: 'framework/*','cms/*'
+---
+
+Group:
+  extensions:
+    - GroupExtension
+
+Member:
+  extensions:
+    - ChefMember
